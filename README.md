@@ -1,0 +1,1 @@
+## Stacked Based Slider - Client Testimonials written in Pure JavaScript and styled using TailwindCSS
